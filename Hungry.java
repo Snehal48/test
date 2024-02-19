@@ -5,7 +5,6 @@ public class Hungry{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello Snehal");
-        System.out.println("Hello World");
         System.out.println("Are you hungry ?");
         char c = sc.next().charAt(0);
         if(c=='Y' || c=='y')
