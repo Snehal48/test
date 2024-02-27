@@ -7,9 +7,7 @@ public class Hungry{
         System.out.println("Are you hungry ?");
         char c = sc.next().charAt(0);
         if(c=='Y' || c=='y')
-           { System.out.println("eat Samosa");}
-        else
-            {System.out.println("Are you thirsty then drink water");
+           { System.out.println("eat Samosa");
 
         }
     }
